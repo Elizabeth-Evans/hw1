@@ -1,0 +1,39 @@
+* {
+  background-color:#E2BADD;
+  text-align: center;
+
+
+/* I like this color #F309CC;*/
+}
+p {
+
+  font-size: 15px;
+  font-style: Impact;
+  color: #f309cc;
+  padding:10px;
+}
+
+
+
+div {
+
+    display:inline-block;
+    font-size: 40px;
+    color: #139F2E;
+    border: 2px solid #f309cc;
+    margin: 10px;
+
+
+
+}
+
+img {
+
+  width: 100px;
+  height:100px;
+  padding: 5px;
+}
+
+ol{
+  text-align: left;
+}
